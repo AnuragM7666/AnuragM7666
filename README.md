@@ -23,3 +23,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anuragm7666&show_icons=true&locale=en" alt="anuragm7666" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anuragm7666&" alt="anuragm7666" /></p>
+
+![Leetcode Stats](https://leetcard.jacoblin.cool/lapor?ext=heatmap)
